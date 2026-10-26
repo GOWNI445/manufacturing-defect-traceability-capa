@@ -1,0 +1,2002 @@
+[
+  {
+    "product_id": "SKU-000001",
+    "product_name": "Industrial Component 001",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 340.16,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000002",
+    "product_name": "Industrial Component 002",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 895.78,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-03-30",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000003",
+    "product_name": "Industrial Component 003",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 10.76,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-15",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000004",
+    "product_name": "Industrial Component 004",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 190.19,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-13",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000005",
+    "product_name": "Industrial Component 005",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 486.63,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-01-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000006",
+    "product_name": "Industrial Component 006",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 562.76,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000007",
+    "product_name": "Industrial Component 007",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 335.54,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000008",
+    "product_name": "Industrial Component 008",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 146.42,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-12-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000009",
+    "product_name": "Industrial Component 009",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 219.04,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000010",
+    "product_name": "Industrial Component 010",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 419.41,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-01-13",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000011",
+    "product_name": "Industrial Component 011",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 438.37,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-10-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000012",
+    "product_name": "Industrial Component 012",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 878.33,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-18",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000013",
+    "product_name": "Industrial Component 013",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 357.36,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-09-15",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000014",
+    "product_name": "Industrial Component 014",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 13.43,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-05-07",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000015",
+    "product_name": "Industrial Component 015",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 544.16,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-11-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000016",
+    "product_name": "Industrial Component 016",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 78.11,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-06-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000017",
+    "product_name": "Industrial Component 017",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 734.53,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-07-04",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000018",
+    "product_name": "Industrial Component 018",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 460.41,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-17",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000019",
+    "product_name": "Industrial Component 019",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 160.2,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000020",
+    "product_name": "Industrial Component 020",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 449.02,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000021",
+    "product_name": "Industrial Component 021",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 555.86,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-14",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000022",
+    "product_name": "Industrial Component 022",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 483.6,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-05-14",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000023",
+    "product_name": "Industrial Component 023",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 272.55,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-12-15",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000024",
+    "product_name": "Industrial Component 024",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 327.68,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-10-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000025",
+    "product_name": "Industrial Component 025",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 839.98,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-12-18",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000026",
+    "product_name": "Industrial Component 026",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 633.52,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-10-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000027",
+    "product_name": "Industrial Component 027",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 900.91,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-07-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000028",
+    "product_name": "Industrial Component 028",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 150.21,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-12-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000029",
+    "product_name": "Industrial Component 029",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 282.98,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-06-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000030",
+    "product_name": "Industrial Component 030",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 752.57,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-01-14",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000031",
+    "product_name": "Industrial Component 031",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 940.51,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-04",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000032",
+    "product_name": "Industrial Component 032",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 806.18,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-02-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000033",
+    "product_name": "Industrial Component 033",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 881.01,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000034",
+    "product_name": "Industrial Component 034",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 239.46,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-02-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000035",
+    "product_name": "Industrial Component 035",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 551.74,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000036",
+    "product_name": "Industrial Component 036",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 325.26,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-10-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000037",
+    "product_name": "Industrial Component 037",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 580.09,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-06-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000038",
+    "product_name": "Industrial Component 038",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 262.19,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-05-28",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000039",
+    "product_name": "Industrial Component 039",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 508.57,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-31",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000040",
+    "product_name": "Industrial Component 040",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 214.77,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-04-09",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000041",
+    "product_name": "Industrial Component 041",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 100.71,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-11-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000042",
+    "product_name": "Industrial Component 042",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 883.23,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-04-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000043",
+    "product_name": "Industrial Component 043",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 356.23,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-09-02",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000044",
+    "product_name": "Industrial Component 044",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 941.06,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-02",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000045",
+    "product_name": "Industrial Component 045",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 623.74,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-08-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000046",
+    "product_name": "Industrial Component 046",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 454.95,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-12-07",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000047",
+    "product_name": "Industrial Component 047",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 707.67,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-02-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000048",
+    "product_name": "Industrial Component 048",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 379.95,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-04-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000049",
+    "product_name": "Industrial Component 049",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 139.31,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-05-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000050",
+    "product_name": "Industrial Component 050",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 532.34,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-04-15",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000051",
+    "product_name": "Industrial Component 051",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 700.92,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-30",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000052",
+    "product_name": "Industrial Component 052",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 79.65,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-04-25",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000053",
+    "product_name": "Industrial Component 053",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 729.79,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-08-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000054",
+    "product_name": "Industrial Component 054",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 326.06,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-08-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000055",
+    "product_name": "Industrial Component 055",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 616.01,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-24",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000056",
+    "product_name": "Industrial Component 056",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 527.49,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-03-07",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000057",
+    "product_name": "Industrial Component 057",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 126.32,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-07-17",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000058",
+    "product_name": "Industrial Component 058",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 69.09,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-08-31",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000059",
+    "product_name": "Industrial Component 059",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 539.67,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-01-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000060",
+    "product_name": "Industrial Component 060",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 307.62,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-07-24",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000061",
+    "product_name": "Industrial Component 061",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 37.64,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-08-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000062",
+    "product_name": "Industrial Component 062",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 340.7,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-10-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000063",
+    "product_name": "Industrial Component 063",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 582.43,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-10-30",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000064",
+    "product_name": "Industrial Component 064",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 545.22,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000065",
+    "product_name": "Industrial Component 065",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 592.69,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-10-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000066",
+    "product_name": "Industrial Component 066",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 282.58,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000067",
+    "product_name": "Industrial Component 067",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 532.23,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-02-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000068",
+    "product_name": "Industrial Component 068",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 681.71,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000069",
+    "product_name": "Industrial Component 069",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 116.12,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000070",
+    "product_name": "Industrial Component 070",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 723.99,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-12-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000071",
+    "product_name": "Industrial Component 071",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 252.27,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-05-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000072",
+    "product_name": "Industrial Component 072",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 748.61,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-06-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000073",
+    "product_name": "Industrial Component 073",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 711.76,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000074",
+    "product_name": "Industrial Component 074",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 678.19,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000075",
+    "product_name": "Industrial Component 075",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 341.62,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-09-02",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000076",
+    "product_name": "Industrial Component 076",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 835.71,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-12-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000077",
+    "product_name": "Industrial Component 077",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 146.92,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-07-02",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000078",
+    "product_name": "Industrial Component 078",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 240.29,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-01-14",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000079",
+    "product_name": "Industrial Component 079",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 223.67,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-05-09",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000080",
+    "product_name": "Industrial Component 080",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 742.26,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-08-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000081",
+    "product_name": "Industrial Component 081",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 214.83,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000082",
+    "product_name": "Industrial Component 082",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 816.74,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000083",
+    "product_name": "Industrial Component 083",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 15.19,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-03-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000084",
+    "product_name": "Industrial Component 084",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 11.9,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000085",
+    "product_name": "Industrial Component 085",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 882.9,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-07-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000086",
+    "product_name": "Industrial Component 086",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 167.68,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-12-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000087",
+    "product_name": "Industrial Component 087",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 583.57,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-10-18",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000088",
+    "product_name": "Industrial Component 088",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 364.32,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-11-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000089",
+    "product_name": "Industrial Component 089",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 821.34,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-07-14",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000090",
+    "product_name": "Industrial Component 090",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 72.62,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-04-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000091",
+    "product_name": "Industrial Component 091",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 58.93,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-11-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000092",
+    "product_name": "Industrial Component 092",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 300.35,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000093",
+    "product_name": "Industrial Component 093",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 672.37,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-01-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000094",
+    "product_name": "Industrial Component 094",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 809.5,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-12-14",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000095",
+    "product_name": "Industrial Component 095",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 738.98,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-06-04",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000096",
+    "product_name": "Industrial Component 096",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 687.67,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-20",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000097",
+    "product_name": "Industrial Component 097",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 868.24,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000098",
+    "product_name": "Industrial Component 098",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 212.43,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-04-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000099",
+    "product_name": "Industrial Component 099",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 297.26,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-08-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000100",
+    "product_name": "Industrial Component 100",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 53.61,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-02-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000101",
+    "product_name": "Industrial Component 101",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 818.71,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000102",
+    "product_name": "Industrial Component 102",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 209.19,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-05-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000103",
+    "product_name": "Industrial Component 103",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 229.36,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-08-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000104",
+    "product_name": "Industrial Component 104",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 183.53,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000105",
+    "product_name": "Industrial Component 105",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 839.71,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-10-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000106",
+    "product_name": "Industrial Component 106",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 785.91,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-10-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000107",
+    "product_name": "Industrial Component 107",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 913.55,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-08-31",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000108",
+    "product_name": "Industrial Component 108",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 519.61,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-07-30",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000109",
+    "product_name": "Industrial Component 109",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 253.03,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-12-20",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000110",
+    "product_name": "Industrial Component 110",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 126.71,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-10-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000111",
+    "product_name": "Industrial Component 111",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 144.41,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-01-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000112",
+    "product_name": "Industrial Component 112",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 722.07,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-06-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000113",
+    "product_name": "Industrial Component 113",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 391.68,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-03-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000114",
+    "product_name": "Industrial Component 114",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 92.57,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000115",
+    "product_name": "Industrial Component 115",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 372.8,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-01-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000116",
+    "product_name": "Industrial Component 116",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 664.74,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-09-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000117",
+    "product_name": "Industrial Component 117",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 860.03,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-01-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000118",
+    "product_name": "Industrial Component 118",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 553.17,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000119",
+    "product_name": "Industrial Component 119",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 297.5,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-11-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000120",
+    "product_name": "Industrial Component 120",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 938.86,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-02-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000121",
+    "product_name": "Industrial Component 121",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 268.36,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-08-21",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000122",
+    "product_name": "Industrial Component 122",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 693.38,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-10-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000123",
+    "product_name": "Industrial Component 123",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 259.67,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-01-03",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000124",
+    "product_name": "Industrial Component 124",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 342.17,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-03-28",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000125",
+    "product_name": "Industrial Component 125",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 721.35,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-02-20",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000126",
+    "product_name": "Industrial Component 126",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 166.36,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-04-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000127",
+    "product_name": "Industrial Component 127",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 562.07,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-04-13",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000128",
+    "product_name": "Industrial Component 128",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 921.99,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-08-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000129",
+    "product_name": "Industrial Component 129",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 408.21,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-12-02",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000130",
+    "product_name": "Industrial Component 130",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 49.62,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-06-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000131",
+    "product_name": "Industrial Component 131",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 478.8,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-01-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000132",
+    "product_name": "Industrial Component 132",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 733.44,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-07-25",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000133",
+    "product_name": "Industrial Component 133",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 574.01,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-08-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000134",
+    "product_name": "Industrial Component 134",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 842.99,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-12-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000135",
+    "product_name": "Industrial Component 135",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 813.86,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-10-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000136",
+    "product_name": "Industrial Component 136",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 138.12,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-12-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000137",
+    "product_name": "Industrial Component 137",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 212.47,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000138",
+    "product_name": "Industrial Component 138",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 753.68,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000139",
+    "product_name": "Industrial Component 139",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 883.18,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-11-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000140",
+    "product_name": "Industrial Component 140",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 122.54,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-08-18",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000141",
+    "product_name": "Industrial Component 141",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 107.7,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-09-17",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000142",
+    "product_name": "Industrial Component 142",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 494.59,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-06-24",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000143",
+    "product_name": "Industrial Component 143",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 556.51,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-05-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000144",
+    "product_name": "Industrial Component 144",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 806.2,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-04-25",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000145",
+    "product_name": "Industrial Component 145",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 200.14,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-02-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000146",
+    "product_name": "Industrial Component 146",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 672.78,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-02-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000147",
+    "product_name": "Industrial Component 147",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 285.87,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000148",
+    "product_name": "Industrial Component 148",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 551.63,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-12-07",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000149",
+    "product_name": "Industrial Component 149",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 94.7,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000150",
+    "product_name": "Industrial Component 150",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 877.85,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-12-28",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000151",
+    "product_name": "Industrial Component 151",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 48.8,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-01-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000152",
+    "product_name": "Industrial Component 152",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 770.2,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-03-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000153",
+    "product_name": "Industrial Component 153",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 663.53,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-01-04",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000154",
+    "product_name": "Industrial Component 154",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 694.45,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-11-09",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000155",
+    "product_name": "Industrial Component 155",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 745.43,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-05-30",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000156",
+    "product_name": "Industrial Component 156",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 228.43,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2024-11-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000157",
+    "product_name": "Industrial Component 157",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 217.91,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-02-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000158",
+    "product_name": "Industrial Component 158",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 85.59,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-07-26",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000159",
+    "product_name": "Industrial Component 159",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 920.54,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-04-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000160",
+    "product_name": "Industrial Component 160",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 528.26,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000161",
+    "product_name": "Industrial Component 161",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 835.3,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-03-07",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000162",
+    "product_name": "Industrial Component 162",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 280.98,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-13",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000163",
+    "product_name": "Industrial Component 163",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 814.32,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-10-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000164",
+    "product_name": "Industrial Component 164",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 169.44,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-10-22",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000165",
+    "product_name": "Industrial Component 165",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 40.89,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-10-09",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000166",
+    "product_name": "Industrial Component 166",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 488.47,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-07-11",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000167",
+    "product_name": "Industrial Component 167",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 231.16,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-02-12",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000168",
+    "product_name": "Industrial Component 168",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 509.54,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-10-31",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000169",
+    "product_name": "Industrial Component 169",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 90.65,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-04-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000170",
+    "product_name": "Industrial Component 170",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 611.87,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-01-18",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000171",
+    "product_name": "Industrial Component 171",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 795.28,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-13",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000172",
+    "product_name": "Industrial Component 172",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 731.45,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-01-17",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000173",
+    "product_name": "Industrial Component 173",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 943.5,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-07",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000174",
+    "product_name": "Industrial Component 174",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 10.18,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-03-08",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000175",
+    "product_name": "Industrial Component 175",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 394.86,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-01-06",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000176",
+    "product_name": "Industrial Component 176",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 392.31,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-09-15",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000177",
+    "product_name": "Industrial Component 177",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 562.23,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-12-30",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000178",
+    "product_name": "Industrial Component 178",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 167.01,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-11-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000179",
+    "product_name": "Industrial Component 179",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 571.73,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000180",
+    "product_name": "Industrial Component 180",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 201.99,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-12-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000181",
+    "product_name": "Industrial Component 181",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 68.26,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-02-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000182",
+    "product_name": "Industrial Component 182",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 632.14,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-05-20",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000183",
+    "product_name": "Industrial Component 183",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 12.32,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2023-10-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000184",
+    "product_name": "Industrial Component 184",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 659.64,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-04-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000185",
+    "product_name": "Industrial Component 185",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 184.33,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2023-11-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000186",
+    "product_name": "Industrial Component 186",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 671.88,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-11-16",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000187",
+    "product_name": "Industrial Component 187",
+    "family": "Pump",
+    "unit_of_measure": "each",
+    "standard_cost": 583.18,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-01-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000188",
+    "product_name": "Industrial Component 188",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 20.21,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-23",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000189",
+    "product_name": "Industrial Component 189",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 256.24,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-02-10",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000190",
+    "product_name": "Industrial Component 190",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 823.04,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-03-25",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000191",
+    "product_name": "Industrial Component 191",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 208.44,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-04-20",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000192",
+    "product_name": "Industrial Component 192",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 252.3,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2025-09-19",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000193",
+    "product_name": "Industrial Component 193",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 665.86,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-08-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000194",
+    "product_name": "Industrial Component 194",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 860.16,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-05-29",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000195",
+    "product_name": "Industrial Component 195",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 937.96,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-06-01",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000196",
+    "product_name": "Industrial Component 196",
+    "family": "Sensor",
+    "unit_of_measure": "each",
+    "standard_cost": 667.47,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-06-20",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000197",
+    "product_name": "Industrial Component 197",
+    "family": "Housing",
+    "unit_of_measure": "each",
+    "standard_cost": 304.13,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-07-27",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000198",
+    "product_name": "Industrial Component 198",
+    "family": "Valve",
+    "unit_of_measure": "each",
+    "standard_cost": 103.69,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2024-05-24",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000199",
+    "product_name": "Industrial Component 199",
+    "family": "Gear",
+    "unit_of_measure": "each",
+    "standard_cost": 496.63,
+    "lifecycle_state": "PHASE_IN",
+    "effective_from": "2026-03-05",
+    "effective_to": ""
+  },
+  {
+    "product_id": "SKU-000200",
+    "product_name": "Industrial Component 200",
+    "family": "Bracket",
+    "unit_of_measure": "each",
+    "standard_cost": 790.59,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2025-12-15",
+    "effective_to": ""
+  }
+]

@@ -1,0 +1,6 @@
+issue_id,issue_type,entity_name,entity_id,ground_truth,description
+ISSUE-000001,DEFECT_NONEXISTENT_LOT,Defect,DEF-2026-000001,REJECT_AND_QUARANTINE,Defect references a material lot that does not exist.
+ISSUE-000002,BOM_MATERIAL_NOT_CONSUMED,ProductionOrder,WO-2026-000001,BLOCK_RELEASE,A required BOM line has no matching consumption record.
+ISSUE-000003,CAPA_CLOSED_BEFORE_VERIFICATION,CorrectiveAction,CAPA-2026-000001,REOPEN_CAPA,CAPA is closed before a passing verification event.
+ISSUE-000004,DEFECT_COUNT_EXCEEDS_INSPECTED,InspectionResult,INSP-WO-2026-005000-004,INVALID_INSPECTION,Defective quantity exceeds inspected quantity.
+ISSUE-000005,TRACEABILITY_CHAIN_BREAK,Defect,DEF-2026-000683,HOLD_FOR_INVESTIGATION,Defect process-step reference cannot be resolved.

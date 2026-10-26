@@ -1,0 +1,42 @@
+[
+  {
+    "issue_id": "ISSUE-000001",
+    "issue_type": "DEFECT_NONEXISTENT_LOT",
+    "entity_name": "Defect",
+    "entity_id": "DEF-2026-000001",
+    "ground_truth": "REJECT_AND_QUARANTINE",
+    "description": "Defect references a material lot that does not exist."
+  },
+  {
+    "issue_id": "ISSUE-000002",
+    "issue_type": "BOM_MATERIAL_NOT_CONSUMED",
+    "entity_name": "ProductionOrder",
+    "entity_id": "WO-2026-000001",
+    "ground_truth": "BLOCK_RELEASE",
+    "description": "A required BOM line has no matching consumption record."
+  },
+  {
+    "issue_id": "ISSUE-000003",
+    "issue_type": "CAPA_CLOSED_BEFORE_VERIFICATION",
+    "entity_name": "CorrectiveAction",
+    "entity_id": "CAPA-2026-000001",
+    "ground_truth": "REOPEN_CAPA",
+    "description": "CAPA is closed before a passing verification event."
+  },
+  {
+    "issue_id": "ISSUE-000004",
+    "issue_type": "DEFECT_COUNT_EXCEEDS_INSPECTED",
+    "entity_name": "InspectionResult",
+    "entity_id": "INSP-WO-2026-005000-004",
+    "ground_truth": "INVALID_INSPECTION",
+    "description": "Defective quantity exceeds inspected quantity."
+  },
+  {
+    "issue_id": "ISSUE-000005",
+    "issue_type": "TRACEABILITY_CHAIN_BREAK",
+    "entity_name": "Defect",
+    "entity_id": "DEF-2026-000683",
+    "ground_truth": "HOLD_FOR_INVESTIGATION",
+    "description": "Defect process-step reference cannot be resolved."
+  }
+]

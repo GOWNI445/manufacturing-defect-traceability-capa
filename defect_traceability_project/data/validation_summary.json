@@ -1,0 +1,31 @@
+{
+  "status": "PASS_WITH_LABELLED_EXCEPTIONS",
+  "validation_issue_count": 0,
+  "validation_issues": [],
+  "ground_truth_cases": 5,
+  "row_counts": {
+    "Defect": 683,
+    "Material": 80,
+    "InspectionPlan": 200,
+    "LotConsumption": 14908,
+    "MaterialLot": 2000,
+    "DataDictionary": 136,
+    "ProcessStep": 20023,
+    "InspectionResult": 20000,
+    "Supplier": 50,
+    "ProductionOrderEvent": 10000,
+    "CorrectiveAction": 683,
+    "Machine": 30,
+    "Product": 200,
+    "ProductionOrder": 5000,
+    "CAPAEvent": 1885,
+    "BOM": 597
+  },
+  "kpis": {
+    "inspection_results": 20000,
+    "defect_records": 683,
+    "defect_rate_by_units": 0.004,
+    "closed_capa": 601,
+    "process_drift_steps": 1057
+  }
+}

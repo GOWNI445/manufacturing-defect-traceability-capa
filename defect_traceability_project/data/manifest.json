@@ -1,0 +1,49 @@
+{
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "scale": "full",
+  "parameters": {
+    "products": 200,
+    "suppliers": 50,
+    "material_lots": 2000,
+    "production_orders": 5000,
+    "inspection_results": 20000
+  },
+  "row_counts": {
+    "Product": 200,
+    "Supplier": 50,
+    "Material": 80,
+    "BOM": 597,
+    "Machine": 30,
+    "MaterialLot": 2000,
+    "ProductionOrder": 5000,
+    "ProcessStep": 20023,
+    "LotConsumption": 14908,
+    "InspectionPlan": 200,
+    "InspectionResult": 20000,
+    "Defect": 683,
+    "CorrectiveAction": 683,
+    "CAPAEvent": 1885,
+    "ProductionOrderEvent": 10000,
+    "DataDictionary": 136
+  },
+  "checksums": {
+    "csv/BOM.csv": "992ed36750a219a912ebf861294975ebc1cdbbe476df7d1f30fcc4f6b2f0cd75",
+    "csv/CAPAEvent.csv": "50c2e006825d6c24efe146cbbae997131de6305a3d14826e538de9b89be79ce7",
+    "csv/CorrectiveAction.csv": "325ad11ff9ed8ebb86667a5caa31638a694c77c1ea14f5aa329410fb1ca8cc7e",
+    "csv/DataDictionary.csv": "47090a53b8ac8c33b2a641875ae5a83c0d51bd805cc903c1afe9ff0332b1901d",
+    "csv/Defect.csv": "915c6cc1a33fa7beb15d01cc8be102037849ac7e4a8a81509d4abeb0f4394596",
+    "csv/InspectionPlan.csv": "d13891f417dcbc418bb98a18856dcf2a9c3579c98eedc58c3a2a5009f6768d98",
+    "csv/InspectionResult.csv": "a2f1cd40a0b9766d89c216094f4762b7335606624a45cf79b6f62f274826adaa",
+    "csv/LotConsumption.csv": "40eaef4ad143b7f9de0f9f9a6c4baf68a5b13c73da0fd4cab5e8a3d8b3c9699a",
+    "csv/Machine.csv": "ebb8c5d03dd40bd428d45cc308dd14e09a428603b357e53fc52f8f7642a00885",
+    "csv/Material.csv": "eb388b049d0cb15fb0003654c8efe7af94103f89cf5bcec0e3318c29149cf706",
+    "csv/MaterialLot.csv": "3b6c6d90d4ff585b6552ab0222e61418ee467eec91980d2df7173fdd20f815da",
+    "csv/ProcessStep.csv": "7ba2df52419409fb8e8f4fd51a530a69b084810a491972699465995e22844d60",
+    "csv/Product.csv": "382eef8d04107dc3414d3070761a76dc154e2f24f43dd7f1cfa7e70ab736025a",
+    "csv/ProductionOrder.csv": "5baedbc2a89e87c1d2931ca31a3a7f5efbcf8bef168c06fa4644f63cd7e7da1e",
+    "csv/ProductionOrderEvent.csv": "e985e7e2d074046b0b2e6d1495e237a30bd82cb7ff07266956f6f0d1ccc9098a",
+    "csv/Supplier.csv": "6b3f4d2ec8e52c35493d93b0ed942097f2b248ce7089905d287676b9171a7f57"
+  },
+  "generated_at": "deterministic-date-2026-10-22"
+}

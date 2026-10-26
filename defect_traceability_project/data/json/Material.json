@@ -1,0 +1,562 @@
+[
+  {
+    "material_id": "MAT-000001",
+    "material_name": "Raw Material 001",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000002",
+    "material_name": "Raw Material 002",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000003",
+    "material_name": "Raw Material 003",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000004",
+    "material_name": "Raw Material 004",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000005",
+    "material_name": "Raw Material 005",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000006",
+    "material_name": "Raw Material 006",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000007",
+    "material_name": "Raw Material 007",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000008",
+    "material_name": "Raw Material 008",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000009",
+    "material_name": "Raw Material 009",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000010",
+    "material_name": "Raw Material 010",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000011",
+    "material_name": "Raw Material 011",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000012",
+    "material_name": "Raw Material 012",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000013",
+    "material_name": "Raw Material 013",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000014",
+    "material_name": "Raw Material 014",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000015",
+    "material_name": "Raw Material 015",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000016",
+    "material_name": "Raw Material 016",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000017",
+    "material_name": "Raw Material 017",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000018",
+    "material_name": "Raw Material 018",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000019",
+    "material_name": "Raw Material 019",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000020",
+    "material_name": "Raw Material 020",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000021",
+    "material_name": "Raw Material 021",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000022",
+    "material_name": "Raw Material 022",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000023",
+    "material_name": "Raw Material 023",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000024",
+    "material_name": "Raw Material 024",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000025",
+    "material_name": "Raw Material 025",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000026",
+    "material_name": "Raw Material 026",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000027",
+    "material_name": "Raw Material 027",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000028",
+    "material_name": "Raw Material 028",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000029",
+    "material_name": "Raw Material 029",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000030",
+    "material_name": "Raw Material 030",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000031",
+    "material_name": "Raw Material 031",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000032",
+    "material_name": "Raw Material 032",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000033",
+    "material_name": "Raw Material 033",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000034",
+    "material_name": "Raw Material 034",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000035",
+    "material_name": "Raw Material 035",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000036",
+    "material_name": "Raw Material 036",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000037",
+    "material_name": "Raw Material 037",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000038",
+    "material_name": "Raw Material 038",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000039",
+    "material_name": "Raw Material 039",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000040",
+    "material_name": "Raw Material 040",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000041",
+    "material_name": "Raw Material 041",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000042",
+    "material_name": "Raw Material 042",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000043",
+    "material_name": "Raw Material 043",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000044",
+    "material_name": "Raw Material 044",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000045",
+    "material_name": "Raw Material 045",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000046",
+    "material_name": "Raw Material 046",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000047",
+    "material_name": "Raw Material 047",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000048",
+    "material_name": "Raw Material 048",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000049",
+    "material_name": "Raw Material 049",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000050",
+    "material_name": "Raw Material 050",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000051",
+    "material_name": "Raw Material 051",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000052",
+    "material_name": "Raw Material 052",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000053",
+    "material_name": "Raw Material 053",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000054",
+    "material_name": "Raw Material 054",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000055",
+    "material_name": "Raw Material 055",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000056",
+    "material_name": "Raw Material 056",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000057",
+    "material_name": "Raw Material 057",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000058",
+    "material_name": "Raw Material 058",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000059",
+    "material_name": "Raw Material 059",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000060",
+    "material_name": "Raw Material 060",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000061",
+    "material_name": "Raw Material 061",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000062",
+    "material_name": "Raw Material 062",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000063",
+    "material_name": "Raw Material 063",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000064",
+    "material_name": "Raw Material 064",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000065",
+    "material_name": "Raw Material 065",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000066",
+    "material_name": "Raw Material 066",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000067",
+    "material_name": "Raw Material 067",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000068",
+    "material_name": "Raw Material 068",
+    "material_type": "POLYMER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000069",
+    "material_name": "Raw Material 069",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000070",
+    "material_name": "Raw Material 070",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000071",
+    "material_name": "Raw Material 071",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000072",
+    "material_name": "Raw Material 072",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000073",
+    "material_name": "Raw Material 073",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000074",
+    "material_name": "Raw Material 074",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000075",
+    "material_name": "Raw Material 075",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000076",
+    "material_name": "Raw Material 076",
+    "material_type": "ELECTRONIC",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000077",
+    "material_name": "Raw Material 077",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000078",
+    "material_name": "Raw Material 078",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000079",
+    "material_name": "Raw Material 079",
+    "material_type": "METAL",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  },
+  {
+    "material_id": "MAT-000080",
+    "material_name": "Raw Material 080",
+    "material_type": "FASTENER",
+    "unit_of_measure": "each",
+    "lifecycle_state": "ACTIVE"
+  }
+]

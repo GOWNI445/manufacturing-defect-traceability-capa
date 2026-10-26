@@ -1,0 +1,137 @@
+entity,field,data_type,required_optional,allowed_values,units,uniqueness,validation_rule,foreign_key_target
+Product,product_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing Product.product_id unless this row is a labelled negative scenario,Product.product_id
+Product,product_name,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Product,family,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Product,unit_of_measure,string / identifier,required,each,—,Not unique,Must be non-empty,
+Product,standard_cost,decimal,required,Identifier or source-derived value; see validation rules,currency per unit,Not unique,Must be non-empty,
+Product,lifecycle_state,string / identifier,required,ACTIVE/PHASE_IN/INACTIVE,—,Not unique,Must be non-empty,
+Product,effective_from,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Effective start date; must be <= effective_to when effective_to is populated,
+Product,effective_to,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+Supplier,supplier_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing Supplier.supplier_id unless this row is a labelled negative scenario,Supplier.supplier_id
+Supplier,supplier_name,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Supplier,risk_tier,string / identifier,required,LOW/MEDIUM/HIGH,—,Not unique,Must be non-empty,
+Supplier,country,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Supplier,approved,string / identifier,required,Y/N,—,Not unique,Must be non-empty,
+Supplier,effective_from,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Effective start date; must be <= effective_to when effective_to is populated,
+Material,material_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing Material.material_id unless this row is a labelled negative scenario,Material.material_id
+Material,material_name,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Material,material_type,string / identifier,required,METAL/POLYMER/ELECTRONIC/FASTENER,—,Not unique,Must be non-empty,
+Material,unit_of_measure,string / identifier,required,each,—,Not unique,Must be non-empty,
+Material,lifecycle_state,string / identifier,required,ACTIVE/PHASE_IN/INACTIVE,—,Not unique,Must be non-empty,
+BOM,bom_line_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing BOM.bom_line_id unless this row is a labelled negative scenario,BOM.bom_line_id
+BOM,product_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Product.product_id unless this row is a labelled negative scenario,Product.product_id
+BOM,material_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Material.material_id unless this row is a labelled negative scenario,Material.material_id
+BOM,quantity_per_unit,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+BOM,scrap_factor,decimal,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+BOM,revision,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+BOM,effective_from,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Effective start date; must be <= effective_to when effective_to is populated,
+BOM,effective_to,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+Machine,machine_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing Machine.machine_id unless this row is a labelled negative scenario,Machine.machine_id
+Machine,machine_name,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Machine,machine_type,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Machine,plant,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Machine,lifecycle_state,string / identifier,required,ACTIVE/PHASE_IN/INACTIVE,—,Not unique,Must be non-empty,
+Machine,commissioned_on,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+MaterialLot,material_lot_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing MaterialLot.material_lot_id unless this row is a labelled negative scenario,MaterialLot.material_lot_id
+MaterialLot,supplier_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Supplier.supplier_id unless this row is a labelled negative scenario,Supplier.supplier_id
+MaterialLot,material_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Material.material_id unless this row is a labelled negative scenario,Material.material_id
+MaterialLot,supplier_batch,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+MaterialLot,received_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+MaterialLot,received_date,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+MaterialLot,expiry_date,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+MaterialLot,incoming_status,string / identifier,required,NORMAL/WATCH/HOLD,—,Not unique,Must be non-empty,
+MaterialLot,scrapped_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty,
+MaterialLot,effective_from,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Effective start date; must be <= effective_to when effective_to is populated,
+MaterialLot,effective_to,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+MaterialLot,consumed_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+MaterialLot,available_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,received_qty - consumed_qty - scrapped_qty,
+MaterialLot,balance_status,string / identifier,required,OK/OVER_CONSUMED,—,Not unique,Must be non-empty,
+ProductionOrder,production_order_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing ProductionOrder.production_order_id unless this row is a labelled negative scenario,ProductionOrder.production_order_id
+ProductionOrder,product_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Product.product_id unless this row is a labelled negative scenario,Product.product_id
+ProductionOrder,planned_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty,
+ProductionOrder,released_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty,
+ProductionOrder,completed_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty,
+ProductionOrder,order_status,string / identifier,required,PLANNED/RELEASED/IN_PROCESS/COMPLETED/ON_HOLD/CLOSED,—,Not unique,Must be non-empty,
+ProductionOrder,planned_start,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProductionOrder,planned_end,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProductionOrder,actual_start,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProductionOrder,actual_end,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+ProductionOrder,issue_type,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+ProcessStep,process_step_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing ProcessStep.process_step_id unless this row is a labelled negative scenario,ProcessStep.process_step_id
+ProcessStep,production_order_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,"Unique within parent: (production_order_id, step_sequence)",Must match an existing ProductionOrder.production_order_id unless this row is a labelled negative scenario,ProductionOrder.production_order_id
+ProcessStep,step_sequence,integer,required,Identifier or source-derived value; see validation rules,—,"Unique within parent: (production_order_id, step_sequence)",Must be non-empty,
+ProcessStep,operation_name,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProcessStep,machine_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Machine.machine_id unless this row is a labelled negative scenario,Machine.machine_id
+ProcessStep,started_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProcessStep,ended_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProcessStep,process_state,string / identifier,required,PLANNED/IN_PROGRESS/COMPLETE/FAILED,—,Not unique,Must be non-empty,
+ProcessStep,temperature_c,decimal,required,Identifier or source-derived value; see validation rules,degrees Celsius,Not unique,Must be non-empty,
+ProcessStep,cycle_time_sec,decimal,required,Identifier or source-derived value; see validation rules,seconds,Not unique,Must be non-empty,
+ProcessStep,process_drift_flag,boolean/int (0 or 1),required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProcessStep,issue_type,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+LotConsumption,consumption_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must be non-empty,
+LotConsumption,production_order_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing ProductionOrder.production_order_id unless this row is a labelled negative scenario,ProductionOrder.production_order_id
+LotConsumption,material_lot_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing MaterialLot.material_lot_id unless this row is a labelled negative scenario,MaterialLot.material_lot_id
+LotConsumption,bom_line_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing BOM.bom_line_id unless this row is a labelled negative scenario,BOM.bom_line_id
+LotConsumption,material_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Material.material_id unless this row is a labelled negative scenario,Material.material_id
+LotConsumption,consumed_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+LotConsumption,consumed_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+LotConsumption,reversal_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty,
+LotConsumption,issue_type,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+InspectionPlan,inspection_plan_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing InspectionPlan.inspection_plan_id unless this row is a labelled negative scenario,InspectionPlan.inspection_plan_id
+InspectionPlan,product_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Product.product_id unless this row is a labelled negative scenario,Product.product_id
+InspectionPlan,inspection_type,string / identifier,required,INCOMING/IN_PROCESS/FINAL,—,Not unique,Must be non-empty,
+InspectionPlan,sample_size,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+InspectionPlan,acceptance_limit,integer,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+InspectionPlan,revision,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+InspectionPlan,effective_from,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Effective start date; must be <= effective_to when effective_to is populated,
+InspectionPlan,effective_to,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+InspectionPlan,lifecycle_state,string / identifier,required,ACTIVE/PHASE_IN/INACTIVE,—,Not unique,Must be non-empty,
+InspectionResult,inspection_result_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing InspectionResult.inspection_result_id unless this row is a labelled negative scenario,InspectionResult.inspection_result_id
+InspectionResult,inspection_plan_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing InspectionPlan.inspection_plan_id unless this row is a labelled negative scenario,InspectionPlan.inspection_plan_id
+InspectionResult,production_order_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing ProductionOrder.production_order_id unless this row is a labelled negative scenario,ProductionOrder.production_order_id
+InspectionResult,process_step_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing ProcessStep.process_step_id unless this row is a labelled negative scenario,ProcessStep.process_step_id
+InspectionResult,inspected_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+InspectionResult,defective_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,0 <= defective_qty <= inspected_qty; violations must be labelled,
+InspectionResult,result_status,string / identifier,required,PASS/FAIL,—,Not unique,Must be non-empty,
+InspectionResult,inspection_date,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+InspectionResult,inspector_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+InspectionResult,issue_type,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+Defect,defect_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing Defect.defect_id unless this row is a labelled negative scenario,Defect.defect_id
+Defect,inspection_result_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing InspectionResult.inspection_result_id unless this row is a labelled negative scenario,InspectionResult.inspection_result_id
+Defect,production_order_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing ProductionOrder.production_order_id unless this row is a labelled negative scenario,ProductionOrder.production_order_id
+Defect,material_lot_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing MaterialLot.material_lot_id unless this row is a labelled negative scenario,MaterialLot.material_lot_id
+Defect,process_step_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing ProcessStep.process_step_id unless this row is a labelled negative scenario,ProcessStep.process_step_id
+Defect,machine_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Machine.machine_id unless this row is a labelled negative scenario,Machine.machine_id
+Defect,defect_code,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Defect,severity,string / identifier,required,LOW/MEDIUM/HIGH/CRITICAL,—,Not unique,Must be non-empty,
+Defect,defect_qty,integer,required,Identifier or source-derived value; see validation rules,units,Not unique,Must be non-empty; must be > 0,
+Defect,disposition,string / identifier,required,REWORK/SCRAP/USE_AS_IS,—,Not unique,Must be non-empty,
+Defect,detected_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+Defect,issue_type,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+CorrectiveAction,capa_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must match an existing CorrectiveAction.capa_id unless this row is a labelled negative scenario,CorrectiveAction.capa_id
+CorrectiveAction,defect_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing Defect.defect_id unless this row is a labelled negative scenario,Defect.defect_id
+CorrectiveAction,owner_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CorrectiveAction,containment_action,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CorrectiveAction,root_cause_category,string / identifier,required,SUPPLIER/MACHINE/PROCESS/OPERATOR/DESIGN,—,Not unique,Must be non-empty,
+CorrectiveAction,corrective_action,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CorrectiveAction,preventive_action,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CorrectiveAction,capa_status,string / identifier,required,OPEN/IN_PROGRESS/CLOSED/REJECTED,—,Not unique,CLOSED only after verification_result=PASS and verified_at <= closed_at,
+CorrectiveAction,opened_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CorrectiveAction,verified_at,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+CorrectiveAction,closed_at,ISO-8601 date or datetime string,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+CorrectiveAction,verification_result,string / identifier,required,PASS/FAIL/PENDING,—,Not unique,Must be non-empty,
+CorrectiveAction,issue_type,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+CAPAEvent,capa_event_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must be non-empty,
+CAPAEvent,capa_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing CorrectiveAction.capa_id unless this row is a labelled negative scenario,CorrectiveAction.capa_id
+CAPAEvent,event_type,string / identifier,required,Documented event label; see event rows,—,Not unique,Must be non-empty,
+CAPAEvent,event_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CAPAEvent,actor_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+CAPAEvent,notes,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProductionOrderEvent,order_event_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Primary key; immutable,Must be non-empty,
+ProductionOrderEvent,production_order_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must match an existing ProductionOrder.production_order_id unless this row is a labelled negative scenario,ProductionOrder.production_order_id
+ProductionOrderEvent,event_type,string / identifier,required,Documented event label; see event rows,—,Not unique,Must be non-empty,
+ProductionOrderEvent,event_at,ISO-8601 date or datetime string,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProductionOrderEvent,from_status,string / identifier,optional,Identifier or source-derived value; see validation rules,—,Not unique,May be blank when lifecycle does not require it,
+ProductionOrderEvent,to_status,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,
+ProductionOrderEvent,actor_id,string / identifier,required,Identifier or source-derived value; see validation rules,—,Not unique,Must be non-empty,

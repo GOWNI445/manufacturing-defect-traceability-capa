@@ -1,0 +1,402 @@
+[
+  {
+    "supplier_id": "SUP-0001",
+    "supplier_name": "Supplier 001",
+    "risk_tier": "LOW",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2023-09-22"
+  },
+  {
+    "supplier_id": "SUP-0002",
+    "supplier_name": "Supplier 002",
+    "risk_tier": "LOW",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2025-10-10"
+  },
+  {
+    "supplier_id": "SUP-0003",
+    "supplier_name": "Supplier 003",
+    "risk_tier": "MEDIUM",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2024-11-22"
+  },
+  {
+    "supplier_id": "SUP-0004",
+    "supplier_name": "Supplier 004",
+    "risk_tier": "LOW",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2022-01-31"
+  },
+  {
+    "supplier_id": "SUP-0005",
+    "supplier_name": "Supplier 005",
+    "risk_tier": "MEDIUM",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2023-07-20"
+  },
+  {
+    "supplier_id": "SUP-0006",
+    "supplier_name": "Supplier 006",
+    "risk_tier": "HIGH",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2023-12-31"
+  },
+  {
+    "supplier_id": "SUP-0007",
+    "supplier_name": "Supplier 007",
+    "risk_tier": "LOW",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2024-01-30"
+  },
+  {
+    "supplier_id": "SUP-0008",
+    "supplier_name": "Supplier 008",
+    "risk_tier": "MEDIUM",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2023-06-13"
+  },
+  {
+    "supplier_id": "SUP-0009",
+    "supplier_name": "Supplier 009",
+    "risk_tier": "LOW",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2021-12-14"
+  },
+  {
+    "supplier_id": "SUP-0010",
+    "supplier_name": "Supplier 010",
+    "risk_tier": "LOW",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2025-02-28"
+  },
+  {
+    "supplier_id": "SUP-0011",
+    "supplier_name": "Supplier 011",
+    "risk_tier": "MEDIUM",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2022-08-25"
+  },
+  {
+    "supplier_id": "SUP-0012",
+    "supplier_name": "Supplier 012",
+    "risk_tier": "LOW",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2022-07-06"
+  },
+  {
+    "supplier_id": "SUP-0013",
+    "supplier_name": "Supplier 013",
+    "risk_tier": "MEDIUM",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2023-07-20"
+  },
+  {
+    "supplier_id": "SUP-0014",
+    "supplier_name": "Supplier 014",
+    "risk_tier": "LOW",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2023-10-28"
+  },
+  {
+    "supplier_id": "SUP-0015",
+    "supplier_name": "Supplier 015",
+    "risk_tier": "LOW",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2022-12-06"
+  },
+  {
+    "supplier_id": "SUP-0016",
+    "supplier_name": "Supplier 016",
+    "risk_tier": "HIGH",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2024-12-01"
+  },
+  {
+    "supplier_id": "SUP-0017",
+    "supplier_name": "Supplier 017",
+    "risk_tier": "LOW",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2023-05-06"
+  },
+  {
+    "supplier_id": "SUP-0018",
+    "supplier_name": "Supplier 018",
+    "risk_tier": "LOW",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2023-02-01"
+  },
+  {
+    "supplier_id": "SUP-0019",
+    "supplier_name": "Supplier 019",
+    "risk_tier": "HIGH",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-05-02"
+  },
+  {
+    "supplier_id": "SUP-0020",
+    "supplier_name": "Supplier 020",
+    "risk_tier": "MEDIUM",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2022-12-24"
+  },
+  {
+    "supplier_id": "SUP-0021",
+    "supplier_name": "Supplier 021",
+    "risk_tier": "MEDIUM",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-05-07"
+  },
+  {
+    "supplier_id": "SUP-0022",
+    "supplier_name": "Supplier 022",
+    "risk_tier": "MEDIUM",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2021-12-13"
+  },
+  {
+    "supplier_id": "SUP-0023",
+    "supplier_name": "Supplier 023",
+    "risk_tier": "MEDIUM",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2024-01-01"
+  },
+  {
+    "supplier_id": "SUP-0024",
+    "supplier_name": "Supplier 024",
+    "risk_tier": "MEDIUM",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2022-04-10"
+  },
+  {
+    "supplier_id": "SUP-0025",
+    "supplier_name": "Supplier 025",
+    "risk_tier": "MEDIUM",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2024-08-08"
+  },
+  {
+    "supplier_id": "SUP-0026",
+    "supplier_name": "Supplier 026",
+    "risk_tier": "LOW",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2022-01-13"
+  },
+  {
+    "supplier_id": "SUP-0027",
+    "supplier_name": "Supplier 027",
+    "risk_tier": "LOW",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2025-07-06"
+  },
+  {
+    "supplier_id": "SUP-0028",
+    "supplier_name": "Supplier 028",
+    "risk_tier": "MEDIUM",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2023-02-26"
+  },
+  {
+    "supplier_id": "SUP-0029",
+    "supplier_name": "Supplier 029",
+    "risk_tier": "LOW",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2024-10-19"
+  },
+  {
+    "supplier_id": "SUP-0030",
+    "supplier_name": "Supplier 030",
+    "risk_tier": "LOW",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-10-25"
+  },
+  {
+    "supplier_id": "SUP-0031",
+    "supplier_name": "Supplier 031",
+    "risk_tier": "MEDIUM",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2024-11-19"
+  },
+  {
+    "supplier_id": "SUP-0032",
+    "supplier_name": "Supplier 032",
+    "risk_tier": "LOW",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-02-07"
+  },
+  {
+    "supplier_id": "SUP-0033",
+    "supplier_name": "Supplier 033",
+    "risk_tier": "MEDIUM",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-04-24"
+  },
+  {
+    "supplier_id": "SUP-0034",
+    "supplier_name": "Supplier 034",
+    "risk_tier": "MEDIUM",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2025-03-06"
+  },
+  {
+    "supplier_id": "SUP-0035",
+    "supplier_name": "Supplier 035",
+    "risk_tier": "LOW",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2023-05-05"
+  },
+  {
+    "supplier_id": "SUP-0036",
+    "supplier_name": "Supplier 036",
+    "risk_tier": "MEDIUM",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-11-29"
+  },
+  {
+    "supplier_id": "SUP-0037",
+    "supplier_name": "Supplier 037",
+    "risk_tier": "LOW",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2025-05-25"
+  },
+  {
+    "supplier_id": "SUP-0038",
+    "supplier_name": "Supplier 038",
+    "risk_tier": "LOW",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2025-11-06"
+  },
+  {
+    "supplier_id": "SUP-0039",
+    "supplier_name": "Supplier 039",
+    "risk_tier": "MEDIUM",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2025-07-13"
+  },
+  {
+    "supplier_id": "SUP-0040",
+    "supplier_name": "Supplier 040",
+    "risk_tier": "HIGH",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2025-11-27"
+  },
+  {
+    "supplier_id": "SUP-0041",
+    "supplier_name": "Supplier 041",
+    "risk_tier": "MEDIUM",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2025-11-11"
+  },
+  {
+    "supplier_id": "SUP-0042",
+    "supplier_name": "Supplier 042",
+    "risk_tier": "LOW",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2021-12-30"
+  },
+  {
+    "supplier_id": "SUP-0043",
+    "supplier_name": "Supplier 043",
+    "risk_tier": "LOW",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2022-11-06"
+  },
+  {
+    "supplier_id": "SUP-0044",
+    "supplier_name": "Supplier 044",
+    "risk_tier": "LOW",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2023-05-30"
+  },
+  {
+    "supplier_id": "SUP-0045",
+    "supplier_name": "Supplier 045",
+    "risk_tier": "LOW",
+    "country": "Vietnam",
+    "approved": "Y",
+    "effective_from": "2022-07-03"
+  },
+  {
+    "supplier_id": "SUP-0046",
+    "supplier_name": "Supplier 046",
+    "risk_tier": "LOW",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2022-04-16"
+  },
+  {
+    "supplier_id": "SUP-0047",
+    "supplier_name": "Supplier 047",
+    "risk_tier": "MEDIUM",
+    "country": "India",
+    "approved": "Y",
+    "effective_from": "2024-12-05"
+  },
+  {
+    "supplier_id": "SUP-0048",
+    "supplier_name": "Supplier 048",
+    "risk_tier": "HIGH",
+    "country": "Japan",
+    "approved": "Y",
+    "effective_from": "2024-08-14"
+  },
+  {
+    "supplier_id": "SUP-0049",
+    "supplier_name": "Supplier 049",
+    "risk_tier": "LOW",
+    "country": "USA",
+    "approved": "Y",
+    "effective_from": "2023-06-26"
+  },
+  {
+    "supplier_id": "SUP-0050",
+    "supplier_name": "Supplier 050",
+    "risk_tier": "LOW",
+    "country": "Germany",
+    "approved": "Y",
+    "effective_from": "2022-02-11"
+  }
+]

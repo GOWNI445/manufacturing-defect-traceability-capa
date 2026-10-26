@@ -1,0 +1,5972 @@
+[
+  {
+    "bom_line_id": "BOML-000001",
+    "product_id": "SKU-000001",
+    "material_id": "MAT-000053",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000002",
+    "product_id": "SKU-000001",
+    "material_id": "MAT-000027",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000003",
+    "product_id": "SKU-000001",
+    "material_id": "MAT-000071",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000004",
+    "product_id": "SKU-000002",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000005",
+    "product_id": "SKU-000002",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000006",
+    "product_id": "SKU-000002",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000007",
+    "product_id": "SKU-000003",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000008",
+    "product_id": "SKU-000003",
+    "material_id": "MAT-000024",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000009",
+    "product_id": "SKU-000004",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000010",
+    "product_id": "SKU-000004",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000011",
+    "product_id": "SKU-000004",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000012",
+    "product_id": "SKU-000004",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000013",
+    "product_id": "SKU-000005",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000014",
+    "product_id": "SKU-000005",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000015",
+    "product_id": "SKU-000005",
+    "material_id": "MAT-000019",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000016",
+    "product_id": "SKU-000006",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000017",
+    "product_id": "SKU-000006",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000018",
+    "product_id": "SKU-000007",
+    "material_id": "MAT-000017",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000019",
+    "product_id": "SKU-000007",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000020",
+    "product_id": "SKU-000008",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000021",
+    "product_id": "SKU-000008",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000022",
+    "product_id": "SKU-000008",
+    "material_id": "MAT-000017",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000023",
+    "product_id": "SKU-000008",
+    "material_id": "MAT-000027",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000024",
+    "product_id": "SKU-000009",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000025",
+    "product_id": "SKU-000009",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000026",
+    "product_id": "SKU-000010",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000027",
+    "product_id": "SKU-000010",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000028",
+    "product_id": "SKU-000010",
+    "material_id": "MAT-000019",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000029",
+    "product_id": "SKU-000010",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000030",
+    "product_id": "SKU-000011",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000031",
+    "product_id": "SKU-000011",
+    "material_id": "MAT-000031",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000032",
+    "product_id": "SKU-000012",
+    "material_id": "MAT-000053",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000033",
+    "product_id": "SKU-000012",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000034",
+    "product_id": "SKU-000012",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000035",
+    "product_id": "SKU-000013",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000036",
+    "product_id": "SKU-000013",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000037",
+    "product_id": "SKU-000014",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000038",
+    "product_id": "SKU-000014",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000039",
+    "product_id": "SKU-000015",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000040",
+    "product_id": "SKU-000015",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000041",
+    "product_id": "SKU-000016",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000042",
+    "product_id": "SKU-000016",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000043",
+    "product_id": "SKU-000017",
+    "material_id": "MAT-000039",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000044",
+    "product_id": "SKU-000017",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000045",
+    "product_id": "SKU-000017",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000046",
+    "product_id": "SKU-000018",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000047",
+    "product_id": "SKU-000018",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000048",
+    "product_id": "SKU-000019",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000049",
+    "product_id": "SKU-000019",
+    "material_id": "MAT-000077",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000050",
+    "product_id": "SKU-000019",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000051",
+    "product_id": "SKU-000019",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000052",
+    "product_id": "SKU-000020",
+    "material_id": "MAT-000024",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000053",
+    "product_id": "SKU-000020",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000054",
+    "product_id": "SKU-000020",
+    "material_id": "MAT-000075",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000055",
+    "product_id": "SKU-000021",
+    "material_id": "MAT-000038",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000056",
+    "product_id": "SKU-000021",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000057",
+    "product_id": "SKU-000021",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000058",
+    "product_id": "SKU-000021",
+    "material_id": "MAT-000069",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000059",
+    "product_id": "SKU-000022",
+    "material_id": "MAT-000038",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000060",
+    "product_id": "SKU-000022",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000061",
+    "product_id": "SKU-000023",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000062",
+    "product_id": "SKU-000023",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000063",
+    "product_id": "SKU-000023",
+    "material_id": "MAT-000039",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000064",
+    "product_id": "SKU-000024",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000065",
+    "product_id": "SKU-000024",
+    "material_id": "MAT-000025",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000066",
+    "product_id": "SKU-000024",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000067",
+    "product_id": "SKU-000025",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000068",
+    "product_id": "SKU-000025",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000069",
+    "product_id": "SKU-000025",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000070",
+    "product_id": "SKU-000025",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000071",
+    "product_id": "SKU-000026",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000072",
+    "product_id": "SKU-000026",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000073",
+    "product_id": "SKU-000026",
+    "material_id": "MAT-000010",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000074",
+    "product_id": "SKU-000026",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000075",
+    "product_id": "SKU-000027",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000076",
+    "product_id": "SKU-000027",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000077",
+    "product_id": "SKU-000027",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000078",
+    "product_id": "SKU-000027",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000079",
+    "product_id": "SKU-000028",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000080",
+    "product_id": "SKU-000028",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000081",
+    "product_id": "SKU-000028",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000082",
+    "product_id": "SKU-000029",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000083",
+    "product_id": "SKU-000029",
+    "material_id": "MAT-000029",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000084",
+    "product_id": "SKU-000030",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000085",
+    "product_id": "SKU-000030",
+    "material_id": "MAT-000010",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000086",
+    "product_id": "SKU-000031",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000087",
+    "product_id": "SKU-000031",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000088",
+    "product_id": "SKU-000032",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000089",
+    "product_id": "SKU-000032",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000090",
+    "product_id": "SKU-000033",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000091",
+    "product_id": "SKU-000033",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000092",
+    "product_id": "SKU-000033",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000093",
+    "product_id": "SKU-000033",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000094",
+    "product_id": "SKU-000034",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000095",
+    "product_id": "SKU-000034",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000096",
+    "product_id": "SKU-000034",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000097",
+    "product_id": "SKU-000034",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000098",
+    "product_id": "SKU-000035",
+    "material_id": "MAT-000074",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000099",
+    "product_id": "SKU-000035",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000100",
+    "product_id": "SKU-000035",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000101",
+    "product_id": "SKU-000035",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000102",
+    "product_id": "SKU-000036",
+    "material_id": "MAT-000063",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000103",
+    "product_id": "SKU-000036",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000104",
+    "product_id": "SKU-000037",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000105",
+    "product_id": "SKU-000037",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000106",
+    "product_id": "SKU-000037",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000107",
+    "product_id": "SKU-000038",
+    "material_id": "MAT-000050",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000108",
+    "product_id": "SKU-000038",
+    "material_id": "MAT-000036",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000109",
+    "product_id": "SKU-000039",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000110",
+    "product_id": "SKU-000039",
+    "material_id": "MAT-000019",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000111",
+    "product_id": "SKU-000039",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000112",
+    "product_id": "SKU-000040",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000113",
+    "product_id": "SKU-000040",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000114",
+    "product_id": "SKU-000040",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000115",
+    "product_id": "SKU-000040",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000116",
+    "product_id": "SKU-000041",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000117",
+    "product_id": "SKU-000041",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000118",
+    "product_id": "SKU-000042",
+    "material_id": "MAT-000073",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000119",
+    "product_id": "SKU-000042",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000120",
+    "product_id": "SKU-000042",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000121",
+    "product_id": "SKU-000043",
+    "material_id": "MAT-000023",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000122",
+    "product_id": "SKU-000043",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000123",
+    "product_id": "SKU-000044",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000124",
+    "product_id": "SKU-000044",
+    "material_id": "MAT-000050",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000125",
+    "product_id": "SKU-000044",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000126",
+    "product_id": "SKU-000045",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000127",
+    "product_id": "SKU-000045",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000128",
+    "product_id": "SKU-000045",
+    "material_id": "MAT-000071",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000129",
+    "product_id": "SKU-000046",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000130",
+    "product_id": "SKU-000046",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000131",
+    "product_id": "SKU-000046",
+    "material_id": "MAT-000023",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000132",
+    "product_id": "SKU-000047",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000133",
+    "product_id": "SKU-000047",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000134",
+    "product_id": "SKU-000047",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000135",
+    "product_id": "SKU-000047",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000136",
+    "product_id": "SKU-000048",
+    "material_id": "MAT-000053",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000137",
+    "product_id": "SKU-000048",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000138",
+    "product_id": "SKU-000049",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000139",
+    "product_id": "SKU-000049",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000140",
+    "product_id": "SKU-000049",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000141",
+    "product_id": "SKU-000050",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000142",
+    "product_id": "SKU-000050",
+    "material_id": "MAT-000065",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000143",
+    "product_id": "SKU-000050",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000144",
+    "product_id": "SKU-000051",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000145",
+    "product_id": "SKU-000051",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000146",
+    "product_id": "SKU-000051",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000147",
+    "product_id": "SKU-000052",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000148",
+    "product_id": "SKU-000052",
+    "material_id": "MAT-000069",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000149",
+    "product_id": "SKU-000053",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000150",
+    "product_id": "SKU-000053",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000151",
+    "product_id": "SKU-000053",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000152",
+    "product_id": "SKU-000054",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000153",
+    "product_id": "SKU-000054",
+    "material_id": "MAT-000023",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000154",
+    "product_id": "SKU-000055",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000155",
+    "product_id": "SKU-000055",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000156",
+    "product_id": "SKU-000055",
+    "material_id": "MAT-000009",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000157",
+    "product_id": "SKU-000056",
+    "material_id": "MAT-000074",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000158",
+    "product_id": "SKU-000056",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000159",
+    "product_id": "SKU-000056",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000160",
+    "product_id": "SKU-000056",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000161",
+    "product_id": "SKU-000057",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000162",
+    "product_id": "SKU-000057",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000163",
+    "product_id": "SKU-000057",
+    "material_id": "MAT-000080",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000164",
+    "product_id": "SKU-000057",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000165",
+    "product_id": "SKU-000058",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000166",
+    "product_id": "SKU-000058",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000167",
+    "product_id": "SKU-000058",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000168",
+    "product_id": "SKU-000058",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000169",
+    "product_id": "SKU-000059",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000170",
+    "product_id": "SKU-000059",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000171",
+    "product_id": "SKU-000059",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000172",
+    "product_id": "SKU-000059",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000173",
+    "product_id": "SKU-000060",
+    "material_id": "MAT-000024",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000174",
+    "product_id": "SKU-000060",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000175",
+    "product_id": "SKU-000060",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000176",
+    "product_id": "SKU-000060",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000177",
+    "product_id": "SKU-000061",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000178",
+    "product_id": "SKU-000061",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000179",
+    "product_id": "SKU-000062",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000180",
+    "product_id": "SKU-000062",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000181",
+    "product_id": "SKU-000063",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000182",
+    "product_id": "SKU-000063",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000183",
+    "product_id": "SKU-000063",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000184",
+    "product_id": "SKU-000063",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000185",
+    "product_id": "SKU-000064",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000186",
+    "product_id": "SKU-000064",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000187",
+    "product_id": "SKU-000065",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000188",
+    "product_id": "SKU-000065",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000189",
+    "product_id": "SKU-000065",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000190",
+    "product_id": "SKU-000065",
+    "material_id": "MAT-000011",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000191",
+    "product_id": "SKU-000066",
+    "material_id": "MAT-000048",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000192",
+    "product_id": "SKU-000066",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000193",
+    "product_id": "SKU-000066",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000194",
+    "product_id": "SKU-000067",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000195",
+    "product_id": "SKU-000067",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000196",
+    "product_id": "SKU-000067",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000197",
+    "product_id": "SKU-000068",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000198",
+    "product_id": "SKU-000068",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000199",
+    "product_id": "SKU-000068",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000200",
+    "product_id": "SKU-000069",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000201",
+    "product_id": "SKU-000069",
+    "material_id": "MAT-000063",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000202",
+    "product_id": "SKU-000070",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000203",
+    "product_id": "SKU-000070",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000204",
+    "product_id": "SKU-000070",
+    "material_id": "MAT-000053",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000205",
+    "product_id": "SKU-000070",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000206",
+    "product_id": "SKU-000071",
+    "material_id": "MAT-000031",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000207",
+    "product_id": "SKU-000071",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000208",
+    "product_id": "SKU-000071",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000209",
+    "product_id": "SKU-000072",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000210",
+    "product_id": "SKU-000072",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000211",
+    "product_id": "SKU-000072",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000212",
+    "product_id": "SKU-000072",
+    "material_id": "MAT-000071",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000213",
+    "product_id": "SKU-000073",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000214",
+    "product_id": "SKU-000073",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000215",
+    "product_id": "SKU-000073",
+    "material_id": "MAT-000048",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000216",
+    "product_id": "SKU-000074",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000217",
+    "product_id": "SKU-000074",
+    "material_id": "MAT-000027",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000218",
+    "product_id": "SKU-000074",
+    "material_id": "MAT-000036",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000219",
+    "product_id": "SKU-000074",
+    "material_id": "MAT-000023",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000220",
+    "product_id": "SKU-000075",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000221",
+    "product_id": "SKU-000075",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000222",
+    "product_id": "SKU-000075",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000223",
+    "product_id": "SKU-000076",
+    "material_id": "MAT-000017",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000224",
+    "product_id": "SKU-000076",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000225",
+    "product_id": "SKU-000076",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000226",
+    "product_id": "SKU-000077",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000227",
+    "product_id": "SKU-000077",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000228",
+    "product_id": "SKU-000077",
+    "material_id": "MAT-000080",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000229",
+    "product_id": "SKU-000077",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000230",
+    "product_id": "SKU-000078",
+    "material_id": "MAT-000025",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000231",
+    "product_id": "SKU-000078",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000232",
+    "product_id": "SKU-000078",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000233",
+    "product_id": "SKU-000078",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000234",
+    "product_id": "SKU-000079",
+    "material_id": "MAT-000048",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000235",
+    "product_id": "SKU-000079",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000236",
+    "product_id": "SKU-000079",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000237",
+    "product_id": "SKU-000080",
+    "material_id": "MAT-000024",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000238",
+    "product_id": "SKU-000080",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000239",
+    "product_id": "SKU-000080",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000240",
+    "product_id": "SKU-000081",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000241",
+    "product_id": "SKU-000081",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000242",
+    "product_id": "SKU-000081",
+    "material_id": "MAT-000011",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000243",
+    "product_id": "SKU-000081",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000244",
+    "product_id": "SKU-000082",
+    "material_id": "MAT-000036",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000245",
+    "product_id": "SKU-000082",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000246",
+    "product_id": "SKU-000083",
+    "material_id": "MAT-000025",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000247",
+    "product_id": "SKU-000083",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000248",
+    "product_id": "SKU-000084",
+    "material_id": "MAT-000013",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000249",
+    "product_id": "SKU-000084",
+    "material_id": "MAT-000077",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000250",
+    "product_id": "SKU-000084",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000251",
+    "product_id": "SKU-000084",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000252",
+    "product_id": "SKU-000085",
+    "material_id": "MAT-000022",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000253",
+    "product_id": "SKU-000085",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000254",
+    "product_id": "SKU-000086",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000255",
+    "product_id": "SKU-000086",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000256",
+    "product_id": "SKU-000086",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000257",
+    "product_id": "SKU-000086",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000258",
+    "product_id": "SKU-000087",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000259",
+    "product_id": "SKU-000087",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000260",
+    "product_id": "SKU-000088",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000261",
+    "product_id": "SKU-000088",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000262",
+    "product_id": "SKU-000088",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000263",
+    "product_id": "SKU-000088",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000264",
+    "product_id": "SKU-000089",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000265",
+    "product_id": "SKU-000089",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000266",
+    "product_id": "SKU-000090",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000267",
+    "product_id": "SKU-000090",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000268",
+    "product_id": "SKU-000090",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000269",
+    "product_id": "SKU-000090",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000270",
+    "product_id": "SKU-000091",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000271",
+    "product_id": "SKU-000091",
+    "material_id": "MAT-000004",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000272",
+    "product_id": "SKU-000091",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000273",
+    "product_id": "SKU-000092",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000274",
+    "product_id": "SKU-000092",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000275",
+    "product_id": "SKU-000092",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000276",
+    "product_id": "SKU-000092",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000277",
+    "product_id": "SKU-000093",
+    "material_id": "MAT-000031",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000278",
+    "product_id": "SKU-000093",
+    "material_id": "MAT-000022",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000279",
+    "product_id": "SKU-000093",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000280",
+    "product_id": "SKU-000094",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000281",
+    "product_id": "SKU-000094",
+    "material_id": "MAT-000074",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000282",
+    "product_id": "SKU-000094",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000283",
+    "product_id": "SKU-000095",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000284",
+    "product_id": "SKU-000095",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000285",
+    "product_id": "SKU-000095",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000286",
+    "product_id": "SKU-000095",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000287",
+    "product_id": "SKU-000096",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000288",
+    "product_id": "SKU-000096",
+    "material_id": "MAT-000012",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000289",
+    "product_id": "SKU-000097",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000290",
+    "product_id": "SKU-000097",
+    "material_id": "MAT-000039",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000291",
+    "product_id": "SKU-000098",
+    "material_id": "MAT-000052",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000292",
+    "product_id": "SKU-000098",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000293",
+    "product_id": "SKU-000099",
+    "material_id": "MAT-000027",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000294",
+    "product_id": "SKU-000099",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000295",
+    "product_id": "SKU-000099",
+    "material_id": "MAT-000010",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000296",
+    "product_id": "SKU-000100",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000297",
+    "product_id": "SKU-000100",
+    "material_id": "MAT-000074",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000298",
+    "product_id": "SKU-000100",
+    "material_id": "MAT-000052",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000299",
+    "product_id": "SKU-000100",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000300",
+    "product_id": "SKU-000101",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000301",
+    "product_id": "SKU-000101",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000302",
+    "product_id": "SKU-000101",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000303",
+    "product_id": "SKU-000101",
+    "material_id": "MAT-000077",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000304",
+    "product_id": "SKU-000102",
+    "material_id": "MAT-000075",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000305",
+    "product_id": "SKU-000102",
+    "material_id": "MAT-000022",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000306",
+    "product_id": "SKU-000102",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000307",
+    "product_id": "SKU-000103",
+    "material_id": "MAT-000075",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000308",
+    "product_id": "SKU-000103",
+    "material_id": "MAT-000027",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000309",
+    "product_id": "SKU-000103",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000310",
+    "product_id": "SKU-000103",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000311",
+    "product_id": "SKU-000104",
+    "material_id": "MAT-000012",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000312",
+    "product_id": "SKU-000104",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000313",
+    "product_id": "SKU-000104",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000314",
+    "product_id": "SKU-000105",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000315",
+    "product_id": "SKU-000105",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000316",
+    "product_id": "SKU-000106",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000317",
+    "product_id": "SKU-000106",
+    "material_id": "MAT-000012",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000318",
+    "product_id": "SKU-000107",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000319",
+    "product_id": "SKU-000107",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000320",
+    "product_id": "SKU-000107",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000321",
+    "product_id": "SKU-000107",
+    "material_id": "MAT-000022",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000322",
+    "product_id": "SKU-000108",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000323",
+    "product_id": "SKU-000108",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000324",
+    "product_id": "SKU-000108",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000325",
+    "product_id": "SKU-000108",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000326",
+    "product_id": "SKU-000109",
+    "material_id": "MAT-000013",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000327",
+    "product_id": "SKU-000109",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000328",
+    "product_id": "SKU-000109",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000329",
+    "product_id": "SKU-000109",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000330",
+    "product_id": "SKU-000110",
+    "material_id": "MAT-000038",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000331",
+    "product_id": "SKU-000110",
+    "material_id": "MAT-000017",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000332",
+    "product_id": "SKU-000111",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000333",
+    "product_id": "SKU-000111",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000334",
+    "product_id": "SKU-000111",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000335",
+    "product_id": "SKU-000112",
+    "material_id": "MAT-000013",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000336",
+    "product_id": "SKU-000112",
+    "material_id": "MAT-000022",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000337",
+    "product_id": "SKU-000112",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000338",
+    "product_id": "SKU-000113",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000339",
+    "product_id": "SKU-000113",
+    "material_id": "MAT-000029",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000340",
+    "product_id": "SKU-000114",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000341",
+    "product_id": "SKU-000114",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000342",
+    "product_id": "SKU-000114",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000343",
+    "product_id": "SKU-000115",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000344",
+    "product_id": "SKU-000115",
+    "material_id": "MAT-000071",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000345",
+    "product_id": "SKU-000116",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000346",
+    "product_id": "SKU-000116",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000347",
+    "product_id": "SKU-000116",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000348",
+    "product_id": "SKU-000117",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000349",
+    "product_id": "SKU-000117",
+    "material_id": "MAT-000063",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000350",
+    "product_id": "SKU-000117",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000351",
+    "product_id": "SKU-000117",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000352",
+    "product_id": "SKU-000118",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000353",
+    "product_id": "SKU-000118",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000354",
+    "product_id": "SKU-000118",
+    "material_id": "MAT-000074",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000355",
+    "product_id": "SKU-000118",
+    "material_id": "MAT-000073",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000356",
+    "product_id": "SKU-000119",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000357",
+    "product_id": "SKU-000119",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000358",
+    "product_id": "SKU-000119",
+    "material_id": "MAT-000019",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000359",
+    "product_id": "SKU-000120",
+    "material_id": "MAT-000039",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000360",
+    "product_id": "SKU-000120",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000361",
+    "product_id": "SKU-000120",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000362",
+    "product_id": "SKU-000121",
+    "material_id": "MAT-000013",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000363",
+    "product_id": "SKU-000121",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000364",
+    "product_id": "SKU-000122",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000365",
+    "product_id": "SKU-000122",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000366",
+    "product_id": "SKU-000123",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000367",
+    "product_id": "SKU-000123",
+    "material_id": "MAT-000010",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000368",
+    "product_id": "SKU-000123",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000369",
+    "product_id": "SKU-000124",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000370",
+    "product_id": "SKU-000124",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000371",
+    "product_id": "SKU-000124",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000372",
+    "product_id": "SKU-000124",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000373",
+    "product_id": "SKU-000125",
+    "material_id": "MAT-000065",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000374",
+    "product_id": "SKU-000125",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000375",
+    "product_id": "SKU-000125",
+    "material_id": "MAT-000012",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000376",
+    "product_id": "SKU-000125",
+    "material_id": "MAT-000073",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000377",
+    "product_id": "SKU-000126",
+    "material_id": "MAT-000071",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000378",
+    "product_id": "SKU-000126",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000379",
+    "product_id": "SKU-000127",
+    "material_id": "MAT-000077",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000380",
+    "product_id": "SKU-000127",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000381",
+    "product_id": "SKU-000127",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000382",
+    "product_id": "SKU-000127",
+    "material_id": "MAT-000016",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000383",
+    "product_id": "SKU-000128",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000384",
+    "product_id": "SKU-000128",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000385",
+    "product_id": "SKU-000129",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000386",
+    "product_id": "SKU-000129",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000387",
+    "product_id": "SKU-000129",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000388",
+    "product_id": "SKU-000130",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000389",
+    "product_id": "SKU-000130",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000390",
+    "product_id": "SKU-000130",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000391",
+    "product_id": "SKU-000130",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000392",
+    "product_id": "SKU-000131",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000393",
+    "product_id": "SKU-000131",
+    "material_id": "MAT-000067",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000394",
+    "product_id": "SKU-000131",
+    "material_id": "MAT-000010",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000395",
+    "product_id": "SKU-000132",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000396",
+    "product_id": "SKU-000132",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000397",
+    "product_id": "SKU-000133",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000398",
+    "product_id": "SKU-000133",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000399",
+    "product_id": "SKU-000134",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000400",
+    "product_id": "SKU-000134",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000401",
+    "product_id": "SKU-000135",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000402",
+    "product_id": "SKU-000135",
+    "material_id": "MAT-000023",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000403",
+    "product_id": "SKU-000135",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000404",
+    "product_id": "SKU-000135",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000405",
+    "product_id": "SKU-000136",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000406",
+    "product_id": "SKU-000136",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000407",
+    "product_id": "SKU-000136",
+    "material_id": "MAT-000031",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000408",
+    "product_id": "SKU-000136",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000409",
+    "product_id": "SKU-000137",
+    "material_id": "MAT-000010",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000410",
+    "product_id": "SKU-000137",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000411",
+    "product_id": "SKU-000137",
+    "material_id": "MAT-000017",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000412",
+    "product_id": "SKU-000137",
+    "material_id": "MAT-000006",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000413",
+    "product_id": "SKU-000138",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000414",
+    "product_id": "SKU-000138",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000415",
+    "product_id": "SKU-000139",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000416",
+    "product_id": "SKU-000139",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000417",
+    "product_id": "SKU-000139",
+    "material_id": "MAT-000011",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000418",
+    "product_id": "SKU-000139",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000419",
+    "product_id": "SKU-000140",
+    "material_id": "MAT-000059",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000420",
+    "product_id": "SKU-000140",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000421",
+    "product_id": "SKU-000141",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000422",
+    "product_id": "SKU-000141",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000423",
+    "product_id": "SKU-000141",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000424",
+    "product_id": "SKU-000141",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000425",
+    "product_id": "SKU-000142",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000426",
+    "product_id": "SKU-000142",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000427",
+    "product_id": "SKU-000142",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000428",
+    "product_id": "SKU-000143",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000429",
+    "product_id": "SKU-000143",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000430",
+    "product_id": "SKU-000143",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000431",
+    "product_id": "SKU-000143",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000432",
+    "product_id": "SKU-000144",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000433",
+    "product_id": "SKU-000144",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000434",
+    "product_id": "SKU-000144",
+    "material_id": "MAT-000045",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000435",
+    "product_id": "SKU-000144",
+    "material_id": "MAT-000036",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000436",
+    "product_id": "SKU-000145",
+    "material_id": "MAT-000053",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000437",
+    "product_id": "SKU-000145",
+    "material_id": "MAT-000063",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000438",
+    "product_id": "SKU-000145",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000439",
+    "product_id": "SKU-000146",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000440",
+    "product_id": "SKU-000146",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000441",
+    "product_id": "SKU-000147",
+    "material_id": "MAT-000006",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000442",
+    "product_id": "SKU-000147",
+    "material_id": "MAT-000053",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000443",
+    "product_id": "SKU-000147",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000444",
+    "product_id": "SKU-000147",
+    "material_id": "MAT-000075",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000445",
+    "product_id": "SKU-000148",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000446",
+    "product_id": "SKU-000148",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000447",
+    "product_id": "SKU-000148",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000448",
+    "product_id": "SKU-000148",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000449",
+    "product_id": "SKU-000149",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000450",
+    "product_id": "SKU-000149",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000451",
+    "product_id": "SKU-000150",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000452",
+    "product_id": "SKU-000150",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000453",
+    "product_id": "SKU-000151",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000454",
+    "product_id": "SKU-000151",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000455",
+    "product_id": "SKU-000151",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000456",
+    "product_id": "SKU-000151",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000457",
+    "product_id": "SKU-000152",
+    "material_id": "MAT-000011",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000458",
+    "product_id": "SKU-000152",
+    "material_id": "MAT-000052",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000459",
+    "product_id": "SKU-000152",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000460",
+    "product_id": "SKU-000153",
+    "material_id": "MAT-000040",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000461",
+    "product_id": "SKU-000153",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000462",
+    "product_id": "SKU-000154",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000463",
+    "product_id": "SKU-000154",
+    "material_id": "MAT-000063",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000464",
+    "product_id": "SKU-000154",
+    "material_id": "MAT-000068",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000465",
+    "product_id": "SKU-000155",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000466",
+    "product_id": "SKU-000155",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000467",
+    "product_id": "SKU-000156",
+    "material_id": "MAT-000011",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000468",
+    "product_id": "SKU-000156",
+    "material_id": "MAT-000077",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000469",
+    "product_id": "SKU-000157",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000470",
+    "product_id": "SKU-000157",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000471",
+    "product_id": "SKU-000157",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000472",
+    "product_id": "SKU-000158",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000473",
+    "product_id": "SKU-000158",
+    "material_id": "MAT-000018",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000474",
+    "product_id": "SKU-000158",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000475",
+    "product_id": "SKU-000158",
+    "material_id": "MAT-000009",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000476",
+    "product_id": "SKU-000159",
+    "material_id": "MAT-000080",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000477",
+    "product_id": "SKU-000159",
+    "material_id": "MAT-000052",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000478",
+    "product_id": "SKU-000159",
+    "material_id": "MAT-000060",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000479",
+    "product_id": "SKU-000159",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000480",
+    "product_id": "SKU-000160",
+    "material_id": "MAT-000034",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000481",
+    "product_id": "SKU-000160",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000482",
+    "product_id": "SKU-000161",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000483",
+    "product_id": "SKU-000161",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000484",
+    "product_id": "SKU-000161",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000485",
+    "product_id": "SKU-000162",
+    "material_id": "MAT-000065",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000486",
+    "product_id": "SKU-000162",
+    "material_id": "MAT-000004",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000487",
+    "product_id": "SKU-000162",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000488",
+    "product_id": "SKU-000162",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000489",
+    "product_id": "SKU-000163",
+    "material_id": "MAT-000038",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000490",
+    "product_id": "SKU-000163",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000491",
+    "product_id": "SKU-000164",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000492",
+    "product_id": "SKU-000164",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000493",
+    "product_id": "SKU-000165",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000494",
+    "product_id": "SKU-000165",
+    "material_id": "MAT-000023",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000495",
+    "product_id": "SKU-000165",
+    "material_id": "MAT-000032",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000496",
+    "product_id": "SKU-000165",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000497",
+    "product_id": "SKU-000166",
+    "material_id": "MAT-000073",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000498",
+    "product_id": "SKU-000166",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000499",
+    "product_id": "SKU-000167",
+    "material_id": "MAT-000062",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000500",
+    "product_id": "SKU-000167",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000501",
+    "product_id": "SKU-000167",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000502",
+    "product_id": "SKU-000167",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000503",
+    "product_id": "SKU-000168",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000504",
+    "product_id": "SKU-000168",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000505",
+    "product_id": "SKU-000168",
+    "material_id": "MAT-000038",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000506",
+    "product_id": "SKU-000168",
+    "material_id": "MAT-000046",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000507",
+    "product_id": "SKU-000169",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000508",
+    "product_id": "SKU-000169",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000509",
+    "product_id": "SKU-000170",
+    "material_id": "MAT-000030",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000510",
+    "product_id": "SKU-000170",
+    "material_id": "MAT-000012",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000511",
+    "product_id": "SKU-000171",
+    "material_id": "MAT-000051",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000512",
+    "product_id": "SKU-000171",
+    "material_id": "MAT-000029",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000513",
+    "product_id": "SKU-000171",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000514",
+    "product_id": "SKU-000171",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000515",
+    "product_id": "SKU-000172",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000516",
+    "product_id": "SKU-000172",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000517",
+    "product_id": "SKU-000172",
+    "material_id": "MAT-000031",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000518",
+    "product_id": "SKU-000173",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000519",
+    "product_id": "SKU-000173",
+    "material_id": "MAT-000007",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000520",
+    "product_id": "SKU-000173",
+    "material_id": "MAT-000013",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000521",
+    "product_id": "SKU-000174",
+    "material_id": "MAT-000006",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000522",
+    "product_id": "SKU-000174",
+    "material_id": "MAT-000074",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000523",
+    "product_id": "SKU-000174",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000524",
+    "product_id": "SKU-000174",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000525",
+    "product_id": "SKU-000175",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000526",
+    "product_id": "SKU-000175",
+    "material_id": "MAT-000061",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000527",
+    "product_id": "SKU-000176",
+    "material_id": "MAT-000052",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000528",
+    "product_id": "SKU-000176",
+    "material_id": "MAT-000025",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000529",
+    "product_id": "SKU-000176",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000530",
+    "product_id": "SKU-000177",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000531",
+    "product_id": "SKU-000177",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000532",
+    "product_id": "SKU-000177",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000533",
+    "product_id": "SKU-000178",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000534",
+    "product_id": "SKU-000178",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000535",
+    "product_id": "SKU-000178",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000536",
+    "product_id": "SKU-000178",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000537",
+    "product_id": "SKU-000179",
+    "material_id": "MAT-000044",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000538",
+    "product_id": "SKU-000179",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000539",
+    "product_id": "SKU-000180",
+    "material_id": "MAT-000025",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000540",
+    "product_id": "SKU-000180",
+    "material_id": "MAT-000027",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000541",
+    "product_id": "SKU-000180",
+    "material_id": "MAT-000001",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000542",
+    "product_id": "SKU-000181",
+    "material_id": "MAT-000066",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000543",
+    "product_id": "SKU-000181",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000544",
+    "product_id": "SKU-000181",
+    "material_id": "MAT-000049",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000545",
+    "product_id": "SKU-000181",
+    "material_id": "MAT-000064",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000546",
+    "product_id": "SKU-000182",
+    "material_id": "MAT-000028",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000547",
+    "product_id": "SKU-000182",
+    "material_id": "MAT-000073",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000548",
+    "product_id": "SKU-000182",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000549",
+    "product_id": "SKU-000182",
+    "material_id": "MAT-000054",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000550",
+    "product_id": "SKU-000183",
+    "material_id": "MAT-000003",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000551",
+    "product_id": "SKU-000183",
+    "material_id": "MAT-000050",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000552",
+    "product_id": "SKU-000183",
+    "material_id": "MAT-000057",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000553",
+    "product_id": "SKU-000184",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000554",
+    "product_id": "SKU-000184",
+    "material_id": "MAT-000022",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000555",
+    "product_id": "SKU-000185",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000556",
+    "product_id": "SKU-000185",
+    "material_id": "MAT-000026",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000557",
+    "product_id": "SKU-000185",
+    "material_id": "MAT-000019",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000558",
+    "product_id": "SKU-000186",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000559",
+    "product_id": "SKU-000186",
+    "material_id": "MAT-000004",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000560",
+    "product_id": "SKU-000187",
+    "material_id": "MAT-000055",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000561",
+    "product_id": "SKU-000187",
+    "material_id": "MAT-000033",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000562",
+    "product_id": "SKU-000187",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000563",
+    "product_id": "SKU-000187",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000564",
+    "product_id": "SKU-000188",
+    "material_id": "MAT-000056",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000565",
+    "product_id": "SKU-000188",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000566",
+    "product_id": "SKU-000189",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000567",
+    "product_id": "SKU-000189",
+    "material_id": "MAT-000002",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000568",
+    "product_id": "SKU-000189",
+    "material_id": "MAT-000021",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000569",
+    "product_id": "SKU-000189",
+    "material_id": "MAT-000041",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000570",
+    "product_id": "SKU-000190",
+    "material_id": "MAT-000020",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000571",
+    "product_id": "SKU-000190",
+    "material_id": "MAT-000005",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000572",
+    "product_id": "SKU-000191",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000573",
+    "product_id": "SKU-000191",
+    "material_id": "MAT-000013",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000574",
+    "product_id": "SKU-000192",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000575",
+    "product_id": "SKU-000192",
+    "material_id": "MAT-000070",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000576",
+    "product_id": "SKU-000193",
+    "material_id": "MAT-000076",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000577",
+    "product_id": "SKU-000193",
+    "material_id": "MAT-000025",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000578",
+    "product_id": "SKU-000193",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000579",
+    "product_id": "SKU-000193",
+    "material_id": "MAT-000078",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000580",
+    "product_id": "SKU-000194",
+    "material_id": "MAT-000015",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000581",
+    "product_id": "SKU-000194",
+    "material_id": "MAT-000079",
+    "quantity_per_unit": 2,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000582",
+    "product_id": "SKU-000194",
+    "material_id": "MAT-000011",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000583",
+    "product_id": "SKU-000195",
+    "material_id": "MAT-000042",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000584",
+    "product_id": "SKU-000195",
+    "material_id": "MAT-000073",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000585",
+    "product_id": "SKU-000195",
+    "material_id": "MAT-000031",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000586",
+    "product_id": "SKU-000196",
+    "material_id": "MAT-000072",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000587",
+    "product_id": "SKU-000196",
+    "material_id": "MAT-000043",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000588",
+    "product_id": "SKU-000197",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000589",
+    "product_id": "SKU-000197",
+    "material_id": "MAT-000024",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000590",
+    "product_id": "SKU-000198",
+    "material_id": "MAT-000035",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000591",
+    "product_id": "SKU-000198",
+    "material_id": "MAT-000008",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.01,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000592",
+    "product_id": "SKU-000199",
+    "material_id": "MAT-000063",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000593",
+    "product_id": "SKU-000199",
+    "material_id": "MAT-000047",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000594",
+    "product_id": "SKU-000200",
+    "material_id": "MAT-000037",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.02,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000595",
+    "product_id": "SKU-000200",
+    "material_id": "MAT-000014",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000596",
+    "product_id": "SKU-000200",
+    "material_id": "MAT-000058",
+    "quantity_per_unit": 4,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  },
+  {
+    "bom_line_id": "BOML-000597",
+    "product_id": "SKU-000200",
+    "material_id": "MAT-000050",
+    "quantity_per_unit": 1,
+    "scrap_factor": 0.03,
+    "revision": "A",
+    "effective_from": "2025-10-22",
+    "effective_to": ""
+  }
+]

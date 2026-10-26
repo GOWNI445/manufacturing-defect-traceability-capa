@@ -1,0 +1,242 @@
+[
+  {
+    "machine_id": "MCH-0001",
+    "machine_name": "Line 1 Machine 1",
+    "machine_type": "PAINT",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2019-05-23"
+  },
+  {
+    "machine_id": "MCH-0002",
+    "machine_name": "Line 1 Machine 2",
+    "machine_type": "PRESS",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-12-12"
+  },
+  {
+    "machine_id": "MCH-0003",
+    "machine_name": "Line 1 Machine 3",
+    "machine_type": "PRESS",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-06-23"
+  },
+  {
+    "machine_id": "MCH-0004",
+    "machine_name": "Line 1 Machine 4",
+    "machine_type": "ASSEMBLY",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2019-08-21"
+  },
+  {
+    "machine_id": "MCH-0005",
+    "machine_name": "Line 1 Machine 5",
+    "machine_type": "ASSEMBLY",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-11-01"
+  },
+  {
+    "machine_id": "MCH-0006",
+    "machine_name": "Line 1 Machine 6",
+    "machine_type": "ASSEMBLY",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2022-12-14"
+  },
+  {
+    "machine_id": "MCH-0007",
+    "machine_name": "Line 2 Machine 1",
+    "machine_type": "PAINT",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2025-02-10"
+  },
+  {
+    "machine_id": "MCH-0008",
+    "machine_name": "Line 2 Machine 2",
+    "machine_type": "PRESS",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2022-11-15"
+  },
+  {
+    "machine_id": "MCH-0009",
+    "machine_name": "Line 2 Machine 3",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2025-01-11"
+  },
+  {
+    "machine_id": "MCH-0010",
+    "machine_name": "Line 2 Machine 4",
+    "machine_type": "PAINT",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2019-10-15"
+  },
+  {
+    "machine_id": "MCH-0011",
+    "machine_name": "Line 2 Machine 5",
+    "machine_type": "ASSEMBLY",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2025-06-21"
+  },
+  {
+    "machine_id": "MCH-0012",
+    "machine_name": "Line 2 Machine 6",
+    "machine_type": "WELD",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2025-02-15"
+  },
+  {
+    "machine_id": "MCH-0013",
+    "machine_name": "Line 3 Machine 1",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2021-05-26"
+  },
+  {
+    "machine_id": "MCH-0014",
+    "machine_name": "Line 3 Machine 2",
+    "machine_type": "CNC",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2023-06-16"
+  },
+  {
+    "machine_id": "MCH-0015",
+    "machine_name": "Line 3 Machine 3",
+    "machine_type": "WELD",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2020-06-20"
+  },
+  {
+    "machine_id": "MCH-0016",
+    "machine_name": "Line 3 Machine 4",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-12-15"
+  },
+  {
+    "machine_id": "MCH-0017",
+    "machine_name": "Line 3 Machine 5",
+    "machine_type": "PRESS",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2019-07-14"
+  },
+  {
+    "machine_id": "MCH-0018",
+    "machine_name": "Line 3 Machine 6",
+    "machine_type": "CNC",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2023-11-20"
+  },
+  {
+    "machine_id": "MCH-0019",
+    "machine_name": "Line 4 Machine 1",
+    "machine_type": "CNC",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2022-11-30"
+  },
+  {
+    "machine_id": "MCH-0020",
+    "machine_name": "Line 4 Machine 2",
+    "machine_type": "WELD",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-03-15"
+  },
+  {
+    "machine_id": "MCH-0021",
+    "machine_name": "Line 4 Machine 3",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2019-10-27"
+  },
+  {
+    "machine_id": "MCH-0022",
+    "machine_name": "Line 4 Machine 4",
+    "machine_type": "CNC",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2018-10-12"
+  },
+  {
+    "machine_id": "MCH-0023",
+    "machine_name": "Line 4 Machine 5",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2021-10-06"
+  },
+  {
+    "machine_id": "MCH-0024",
+    "machine_name": "Line 4 Machine 6",
+    "machine_type": "PRESS",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2020-11-25"
+  },
+  {
+    "machine_id": "MCH-0025",
+    "machine_name": "Line 5 Machine 1",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2023-05-20"
+  },
+  {
+    "machine_id": "MCH-0026",
+    "machine_name": "Line 5 Machine 2",
+    "machine_type": "ASSEMBLY",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2019-06-14"
+  },
+  {
+    "machine_id": "MCH-0027",
+    "machine_name": "Line 5 Machine 3",
+    "machine_type": "WELD",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-04-10"
+  },
+  {
+    "machine_id": "MCH-0028",
+    "machine_name": "Line 5 Machine 4",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2025-01-20"
+  },
+  {
+    "machine_id": "MCH-0029",
+    "machine_name": "Line 5 Machine 5",
+    "machine_type": "TEST",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2022-11-18"
+  },
+  {
+    "machine_id": "MCH-0030",
+    "machine_name": "Line 5 Machine 6",
+    "machine_type": "ASSEMBLY",
+    "plant": "PLANT-01",
+    "lifecycle_state": "ACTIVE",
+    "commissioned_on": "2024-06-27"
+  }
+]
