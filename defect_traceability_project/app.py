@@ -37,7 +37,6 @@ tab1,tab2,tab3,tab4=st.tabs([
     "Exception register",
     "Validation Report"
 ])
-# tab1,tab2,tab3=st.tabs(["Defect traceability","Quality overview","Exception register"])
 with tab1:
     ids=[x["defect_id"] for x in defects]
     selected=st.selectbox("Choose a defect ID",ids)
