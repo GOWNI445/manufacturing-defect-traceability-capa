@@ -31,7 +31,13 @@ c2.metric("Defect records",f"{len(defects):,}")
 c3.metric("Defective-unit rate",f"{(defect_units/max(inspected_units,1))*100:.2f}%")
 c4.metric("CAPA cases",f"{len(capas):,}")
 st.divider()
-tab1,tab2,tab3=st.tabs(["Defect traceability","Quality overview","Exception register"])
+tab1,tab2,tab3,tab4=st.tabs([
+    "Defect traceability",
+    "Quality overview",
+    "Exception register",
+    "Validation Report"
+])
+# tab1,tab2,tab3=st.tabs(["Defect traceability","Quality overview","Exception register"])
 with tab1:
     ids=[x["defect_id"] for x in defects]
     selected=st.selectbox("Choose a defect ID",ids)
@@ -72,3 +78,83 @@ with tab3:
     st.write("Ground-truth labels are stored separately from the input tables and are for evaluation only.")
     st.dataframe(truth,use_container_width=True)
     st.caption("Do not use ground_truth labels as model input features.")
+
+with tab4:
+    st.subheader("Data Validation Report")
+
+    validation_file = DATA / "validation_summary.json"
+
+    if validation_file.exists():
+        with validation_file.open(encoding="utf-8") as f:
+            report = json.load(f)
+
+        status = report.get("status", "UNKNOWN")
+
+        if status == "PASS_WITH_LABELLED_EXCEPTIONS":
+            st.success(f"Validation Status: {status}")
+        else:
+            st.error(f"Validation Status: {status}")
+
+        c1, c2, c3 = st.columns(3)
+
+        c1.metric(
+            "Validation Issues",
+            report.get("validation_issue_count", 0)
+        )
+
+        c2.metric(
+            "Known Exceptions",
+            report.get("ground_truth_cases", 0)
+        )
+
+        c3.metric(
+            "Inspection Results",
+            report.get("kpis", {}).get("inspection_results", 0)
+        )
+
+        st.divider()
+
+        st.subheader("Quality KPIs")
+
+        kpis = report.get("kpis", {})
+
+        a, b, c = st.columns(3)
+
+        a.metric("Defect Records", kpis.get("defect_records", 0))
+        b.metric("Closed CAPA", kpis.get("closed_capa", 0))
+        c.metric("Process Drift Steps", kpis.get("process_drift_steps", 0))
+
+        st.metric(
+            "Defective Unit Rate",
+            f"{kpis.get('defect_rate_by_units', 0) * 100:.2f}%"
+        )
+
+        st.divider()
+
+        st.subheader("Dataset Row Counts")
+
+        row_counts = report.get("row_counts", {})
+
+        st.dataframe(
+            [{"Table": name, "Records": count}
+             for name, count in row_counts.items()],
+            use_container_width=True
+        )
+
+        st.subheader("Validation Issues")
+
+        issues = report.get("validation_issues", [])
+
+        if issues:
+            st.dataframe(
+                [{"Issue": issue} for issue in issues],
+                use_container_width=True
+            )
+        else:
+            st.success("No unexpected validation issues found.")
+
+    else:
+        st.warning(
+            "Validation report not found. "
+            "Run: python validate_data.py --data data"
+        )
