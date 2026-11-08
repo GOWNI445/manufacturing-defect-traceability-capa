@@ -23,12 +23,30 @@ truth=load_root_csv("ground_truth")
 if not products:
     st.warning("No generated data found. Run `python generate_data.py --scale starter --output data` first.")
     st.stop()
-defect_units=sum(int(x["defective_qty"]) for x in inspections if x["defective_qty"].lstrip("-").isdigit())
-inspected_units=sum(int(x["inspected_qty"]) for x in inspections if x["inspected_qty"].isdigit())
+defect_units = sum(
+    max(int(x["defective_qty"]), 0)
+    for x in inspections
+    if x["defective_qty"].isdigit()
+)
+
+inspected_units = sum(
+    max(int(x["inspected_qty"]), 0)
+    for x in inspections
+    if x["inspected_qty"].isdigit()
+)
+
+defect_rate = (
+    (defect_units / inspected_units) * 100
+    if inspected_units > 0
+    else 0
+)
 c1,c2,c3,c4=st.columns(4)
 c1.metric("Inspection results",f"{len(inspections):,}")
 c2.metric("Defect records",f"{len(defects):,}")
-c3.metric("Defective-unit rate",f"{(defect_units/max(inspected_units,1))*100:.2f}%")
+c3.metric(
+    "Defective-unit rate",
+    f"{defect_rate:.2f}%"
+)
 c4.metric("CAPA cases",f"{len(capas):,}")
 st.divider()
 tab1,tab2,tab3,tab4=st.tabs([
@@ -58,6 +76,46 @@ with tab1:
         supids={x["supplier_id"] for x in trace_lots}
         st.write("**Suppliers**",[x for x in suppliers if x["supplier_id"] in supids])
         st.write("**Corrective actions**",[x for x in capas if x["defect_id"]==d["defect_id"]] or "No CAPA linked")
+        st.divider()
+
+        st.subheader("📊 Traceability Summary")
+
+        linked_actions = [
+            x for x in capas
+            if x["defect_id"] == d["defect_id"]
+        ]
+
+        s1, s2, s3, s4 = st.columns(4)
+
+        s1.metric("Defect ID", d["defect_id"])
+
+        s2.metric(
+            "Production Order",
+            d["production_order_id"]
+        )
+
+        s3.metric(
+            "Material Lots",
+            len(trace_lots)
+        )
+
+        s4.metric(
+            "Affected Suppliers",
+            len(supids)
+        )
+
+        st.metric(
+            "Linked Corrective Actions",
+            len(linked_actions)
+        )
+
+        st.info(
+            "This summary connects the identified defect "
+            "to its production order, consumed material lots, "
+            "suppliers, and corrective actions."
+        )
+
+
 with tab2:
     a,b,c=st.columns(3)
     a.metric("Products",len(products)); b.metric("Suppliers",len(suppliers)); c.metric("Material lots",len(lots))
@@ -75,7 +133,7 @@ with tab2:
     st.bar_chart(risk)
 with tab3:
     st.write("Ground-truth labels are stored separately from the input tables and are for evaluation only.")
-    st.dataframe(truth,use_container_width=True)
+    st.dataframe(truth,width="stretch")
     st.caption("Do not use ground_truth labels as model input features.")
 
 with tab4:
@@ -137,7 +195,7 @@ with tab4:
         st.dataframe(
             [{"Table": name, "Records": count}
              for name, count in row_counts.items()],
-            use_container_width=True
+            width="stretch"
         )
 
         st.subheader("Validation Issues")
@@ -147,7 +205,7 @@ with tab4:
         if issues:
             st.dataframe(
                 [{"Issue": issue} for issue in issues],
-                use_container_width=True
+                width="stretch"
             )
         else:
             st.success("No unexpected validation issues found.")
